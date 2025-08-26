@@ -30,6 +30,9 @@ body{
     text-decoration: none;
     color: white;
 }
+.nav-link:hover{
+    color: #f1c40f;
+}
 .nav{
     background: black;
     height: 50px;

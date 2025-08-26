@@ -35,8 +35,7 @@
     <!-- ./ads -->
     @yield('content')
 
-    <div class="monetumo-ad-slot ad-leaderboard_atf"></div>
-    <div class="monetumo-ad-slot ad-leaderboard_btf"></div>
+    
     
   
     @livewireScripts
